@@ -1,5 +1,5 @@
 # RapiDoc
-A basic HealthCare Chatbot by build for pitching idea in the #Studentbuild4covid Hackathon.Great Thanks to Vivek Mogalapalli.
+A basic HealthCare Chatbot by build for pitching idea in the #Studentbuild4covid Hackathon.
 Copyright 2020 RapiDoc+
 
    Licensed under the Apache License, Version 2.0 (the "License");
